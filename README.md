@@ -6,8 +6,8 @@
   </a>
 </div>
 
-* 🧠 I'm currently studying MSc Computing at Imperial College London.
-* 💳 Previously, I have interned as a Software Engineer (<b>Full Stack - C#, React, SQL, Docker, Terraform, Azure Functions</b>) at Softwire.
+* 🧠 I'm currently studying <b> MSc Computing at Imperial College London </b>.
+* 💻 Previously, I have interned at <b> Softwire </b> as a Software Engineer (<b>Full Stack - C#, React, SQL, Docker, Terraform, Azure Functions</b>).
 * 🌱 I currently work with <b>C++, JavaScript, Java and Python</b> among others.
 * 🔭 Current interests include: Software Development, Networks and Distributed Systems, and Fintech.
 * 💬 I love to collaborate and learn from others, so reach out if you want to discuss some cool topics.
